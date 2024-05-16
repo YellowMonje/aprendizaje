@@ -1,5 +1,10 @@
 .padre{
-    background: orangered
-    height: 300px
-    widht: 300px
+    background: orangered;
+    height: 300px;
+    width: 300px;
+    margin: 50px 50px 100px 100px;
+
+}
+.hijo{
+    
 }
