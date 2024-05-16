@@ -2,9 +2,10 @@
     background: orangered;
     height: 300px;
     width: 300px;
-    margin: 50px 50px 100px 100px;
-
+    padding: 5px;
 }
 .hijo{
-    
+    background: black;
+    height: 100px;
+    width: 100px;
 }
